@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "114276668374",
+    "firebase_url": "https://smarthome-cfc4d-default-rtdb.firebaseio.com",
+    "project_id": "smarthome-cfc4d",
+    "storage_bucket": "smarthome-cfc4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114276668374:android:fd2c0778ed168bf8548a77",
+        "android_client_info": {
+          "package_name": "com.RazaAnees.flashchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAF4FbwLKBOrPJVE8UzDgxPKtpTaKkH0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114276668374:android:23ff503e8024227e548a77",
+        "android_client_info": {
+          "package_name": "com.example.smarthom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAF4FbwLKBOrPJVE8UzDgxPKtpTaKkH0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
